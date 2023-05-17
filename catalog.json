@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": " iPhone 14 Pro Max",
+            "desc": "Apple iPhone 14th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/gamingconsole/y/v/b/1tb-4-slim-console-playstation-yes-original-imagndbvjhqgb98g.jpeg?q=70"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 2nd generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/s/t/m/-original-imaghxgnjdgyghfw.jpeg?q=70"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2023 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/tablet/r/v/e/-original-imagj72vv3gydgem.jpeg?q=70"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S23 Ultra",
+            "desc": "Samsung Galaxy S23 2023 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/m/l/o/-original-imagmg6gzjf7gggt.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S23",
+            "desc": "Samsung Galaxy S23 2023 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/s/j/p/-original-imagmg6gmq9kzq9j.jpeg?q=70"
+        },
+        {
+            "id": 2,
+            "name": "Google Pixel 7a",
+            "desc": "Google Pixel Phone 7th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/n/i/d/-original-imagpgx4erjqnpzx.jpeg?q=70"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70"
+        }
+    ]
+}
